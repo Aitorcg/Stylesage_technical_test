@@ -1,0 +1,7 @@
+,artist_id,artist_title,data.sort_title,data.birth_date,data.death_date,data.is_artist,data.agent_type_title,number_of_artworks_and_ids,random_artwork_id,title,place_of_origin,material_titles,dimensions
+0,1963,Jan Abrahamsz. Beerstraaten,"Beerstraaten, Jan Abrahamsz.",1622.0,1666.0,True,Individual,[83640],83640,Gemear Castle,Netherlands,"['paper (fiber product)', 'wash', 'coating (material)']",
+1,1974,Sara Begody,"Begody, Sara",,,True,Individual,[61009],61009,"Rug or Wall Hanging in the ""Two Grey Hills"" Style",New Mexico,['wool (textile)'],78.3 × 56.5 cm (30 3/4 × 22 1/4 in.)
+2,1992,Peter Behrens,"Behrens, Peter",1868.0,1940.0,True,Individual,"[29114, 121781, 120064, 109475]",29114,The Kiss,Germany,['paper (fiber product)'],270 × 215 mm (image); 370 × 280 mm (sheet)
+3,1998,Sadiqi,Sadiqi,1533.0,1610.0,True,Individual,[70594],70594,The Lion Tamer,Iran,"['paper (fiber product)', 'gold', 'ink']","Image: 13.8 × 19.6 cm (5 7/16 × 7 3/4 in.); 
+Paper: 23.3 × 35.5 cm (9 3/16 × 14 in.)"
+4,2006,Janice Bell,"Bell, Janice",,,True,Individual,"[140958, 54548]",54548,Untitled,United States,[],21.6 × 21.6 cm
